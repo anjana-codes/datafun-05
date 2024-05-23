@@ -1,7 +1,7 @@
 # datafun-05
 ## Module 5: Practice Repo
 
-Anjana Dhakal, May 23, 
+Anjana Dhakal, May 23,2024
 
 ## Create GitHub Repository and clone to VS Code
  #create GitHub repository
@@ -31,6 +31,6 @@ source .\.venv\Scripts\activate
 ## Git add and commit
 ```
 git add .
-git commit -m "initial work"
+git commit -m "initial commit"
 git push origin main
 ```
